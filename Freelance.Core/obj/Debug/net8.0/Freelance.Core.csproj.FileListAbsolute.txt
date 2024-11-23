@@ -1,0 +1,12 @@
+D:\VisualProjects\FreelanceBackend\Freelance.Core\bin\Debug\net8.0\Freelance.Core.deps.json
+D:\VisualProjects\FreelanceBackend\Freelance.Core\bin\Debug\net8.0\Freelance.Core.dll
+D:\VisualProjects\FreelanceBackend\Freelance.Core\bin\Debug\net8.0\Freelance.Core.pdb
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.csproj.AssemblyReference.cache
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.AssemblyInfoInputs.cache
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.AssemblyInfo.cs
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.csproj.CoreCompileInputs.cache
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.dll
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\refint\Freelance.Core.dll
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.pdb
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\ref\Freelance.Core.dll

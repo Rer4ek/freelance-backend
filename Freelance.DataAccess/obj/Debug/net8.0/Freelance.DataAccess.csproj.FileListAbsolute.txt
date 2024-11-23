@@ -1,0 +1,17 @@
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\bin\Debug\net8.0\Freelance.DataAccess.deps.json
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\bin\Debug\net8.0\Freelance.DataAccess.runtimeconfig.json
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\bin\Debug\net8.0\Freelance.DataAccess.dll
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\bin\Debug\net8.0\Freelance.DataAccess.pdb
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\bin\Debug\net8.0\Freelance.Core.dll
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\bin\Debug\net8.0\Freelance.Core.pdb
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.csproj.AssemblyReference.cache
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.AssemblyInfoInputs.cache
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.AssemblyInfo.cs
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.csproj.CoreCompileInputs.cache
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelanc.7AD5A756.Up2Date
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.dll
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\refint\Freelance.DataAccess.dll
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.pdb
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.genruntimeconfig.cache
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\ref\Freelance.DataAccess.dll
