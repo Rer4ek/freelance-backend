@@ -17,14 +17,26 @@ namespace Freelance.API
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddCors(option =>
+            {
+                option.AddDefaultPolicy(policy => 
+                {
+                    policy.WithOrigins("http://localhost:3000");
+                    policy.AllowAnyHeader();
+                    policy.AllowAnyMethod();
+                });
+            });
+
             builder.Services.AddDbContext<FreelanceDatabaseContext>(
                 options =>
                 {
                     options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(FreelanceDatabaseContext)));
                 });
 
-            builder.Services.AddScoped<IUsersService, UsersService>();
+            builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<IUsersRepository, UsersRepository>();
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<ISessionRepository, SessionRepository>();
 
             var app = builder.Build();
 
@@ -41,6 +53,7 @@ namespace Freelance.API
 
             app.MapControllers();
 
+            app.UseCors();
             app.Run();
         }
     }

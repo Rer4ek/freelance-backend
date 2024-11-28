@@ -10,3 +10,4 @@ D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Cor
 D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\refint\Freelance.Core.dll
 D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.pdb
 D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\ref\Freelance.Core.dll
+D:\VisualProjects\FreelanceBackend\Freelance.Core\obj\Debug\net8.0\Freelance.Core.sourcelink.json

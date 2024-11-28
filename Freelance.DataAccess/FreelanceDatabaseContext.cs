@@ -12,10 +12,12 @@ namespace Freelance.DataAccess
         }
 
         public DbSet<UserEntity> Users { get; set; }
+        public DbSet<SessionEntity> Sessions { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new UserConfiguration());
+            modelBuilder.ApplyConfiguration(new SessionConfiguration());
 
             base.OnModelCreating(modelBuilder);
         }

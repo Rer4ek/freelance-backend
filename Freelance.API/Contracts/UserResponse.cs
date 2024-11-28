@@ -2,9 +2,11 @@
 {
     public record UserResponse(
         Guid Id,
-        string Name,
-        string? Discription,
+        string? Name,
+        string? Description,
+        string? Resume,
+        string? Photo,
         string Password,
-        string? Resume
+        string Login
     );
 }

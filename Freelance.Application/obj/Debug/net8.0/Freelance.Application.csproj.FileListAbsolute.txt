@@ -13,3 +13,4 @@ D:\VisualProjects\FreelanceBackend\Freelance.Application\obj\Debug\net8.0\Freela
 D:\VisualProjects\FreelanceBackend\Freelance.Application\obj\Debug\net8.0\refint\Freelance.Application.dll
 D:\VisualProjects\FreelanceBackend\Freelance.Application\obj\Debug\net8.0\Freelance.Application.pdb
 D:\VisualProjects\FreelanceBackend\Freelance.Application\obj\Debug\net8.0\ref\Freelance.Application.dll
+D:\VisualProjects\FreelanceBackend\Freelance.Application\obj\Debug\net8.0\Freelance.Application.sourcelink.json

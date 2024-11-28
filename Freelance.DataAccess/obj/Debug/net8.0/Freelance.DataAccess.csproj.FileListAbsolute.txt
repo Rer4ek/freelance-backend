@@ -15,3 +15,4 @@ D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\refint\
 D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.pdb
 D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.genruntimeconfig.cache
 D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\ref\Freelance.DataAccess.dll
+D:\VisualProjects\FreelanceBackend\Freelance.DataAccess\obj\Debug\net8.0\Freelance.DataAccess.sourcelink.json

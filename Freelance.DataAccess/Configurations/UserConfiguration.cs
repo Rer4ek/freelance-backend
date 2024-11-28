@@ -12,17 +12,29 @@ namespace Freelance.DataAccess.Configurations
             builder.HasKey(u => u.Id);
 
             builder.Property(u => u.Name)
+                .HasMaxLength(User.MAX_NAME_LENGHT)
+                .HasDefaultValue("Редиска582");
+
+            builder.Property(u => u.Description)
+                .HasMaxLength(User.MAX_Description_LENGHT);
+
+            builder.Property(u => u.Login)
                 .IsRequired()
                 .HasMaxLength(User.MAX_NAME_LENGHT);
 
-            builder.Property(u => u.Discription)
-                .HasMaxLength(User.MAX_DISCRIPTION_LENGHT);
+            builder.HasIndex(u => u.Login)
+                .IsUnique();
 
             builder.Property(u => u.Password)
-                .HasMaxLength(User.MAX_PASSWORD_LENGHT);
+                .IsRequired();
 
-            builder.Property(u => u.Resume);
-        
+            builder.Property(u => u.Description)
+                .HasMaxLength(User.MAX_Description_LENGHT)
+                .HasDefaultValue(string.Empty);
+
+            builder
+                .HasMany(s => s.Sessions)
+                .WithOne();
         }
     }
 }
