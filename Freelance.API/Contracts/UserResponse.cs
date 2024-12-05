@@ -1,12 +1,13 @@
-﻿namespace Freelance.API.Contracts
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Freelance.API.Contracts
 {
     public record UserResponse(
         Guid Id,
         string? Name,
         string? Description,
-        string? Resume,
-        string? Photo,
-        string Password,
+        FileContentResult? Resume,
+        FileContentResult? Photo,
         string Login
     );
 }

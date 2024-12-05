@@ -3,8 +3,8 @@
     public record UserRequest(
         string? Name,
         string? Description,
-        string? Resume,
-        string? Photo,
+        IFormFile? Resume,
+        IFormFile? Photo,
         string Password,
         string Login
     );

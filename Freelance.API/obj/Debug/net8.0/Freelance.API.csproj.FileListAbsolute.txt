@@ -36,7 +36,6 @@ D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\Freelance.API.
 D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\Freelance.API.AssemblyInfoInputs.cache
 D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\Freelance.API.AssemblyInfo.cs
 D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\Freelance.API.csproj.CoreCompileInputs.cache
-D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\Freelance.API.MvcApplicationPartsAssemblyInfo.cs
 D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\Freelance.API.MvcApplicationPartsAssemblyInfo.cache
 D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -140,3 +139,7 @@ D:\VisualProjects\FreelanceBackend\Freelance.API\bin\Debug\net8.0\zh-Hans\Micros
 D:\VisualProjects\FreelanceBackend\Freelance.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\VisualProjects\FreelanceBackend\Freelance.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\Freelance.API.sourcelink.json
+D:\VisualProjects\FreelanceBackend\Freelance.API\obj\Debug\net8.0\Freelance.API.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualProjects\FreelanceBackend\Freelance.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\VisualProjects\FreelanceBackend\Freelance.API\bin\Debug\net8.0\MimeKit.dll
+D:\VisualProjects\FreelanceBackend\Freelance.API\bin\Debug\net8.0\System.Formats.Asn1.dll

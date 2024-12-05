@@ -14,15 +14,15 @@ namespace Freelance.Core.Models
 
         public string? Description { get; private set; } = string.Empty;
 
-        public string? Resume { get; private set; }
+        public ClientFile? Resume { get; private set; }
 
-        public string? Photo {  get; private set; }
+        public ClientFile? Photo {  get; private set; }
 
         public string Login { get; private set; }
 
         public string Password { get; private set; }
 
-        private User(Guid guid, string? name, string? description, string? resume, string? photo, string password, string login)
+        private User(Guid guid, string? name, string? description, ClientFile? resume, ClientFile? photo, string password, string login)
         {
             Id = guid;
             Name = name;
@@ -34,7 +34,7 @@ namespace Freelance.Core.Models
         }
 
         public static Result<User> Create(Guid guid, string? name, string? description,
-            string? resume, string? photo, string password, string login)
+            ClientFile? resume, ClientFile? photo, string password, string login)
         {
             if (name?.Replace(" ", "") == string.Empty || name?.Length > MAX_NAME_LENGHT)
             {

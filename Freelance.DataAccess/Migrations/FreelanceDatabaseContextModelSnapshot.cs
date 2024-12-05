@@ -22,6 +22,36 @@ namespace Freelance.DataAccess.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
+            modelBuilder.Entity("Freelance.DataAccess.Entities.PhotoFileEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Path")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Photos");
+                });
+
+            modelBuilder.Entity("Freelance.DataAccess.Entities.ResumeFileEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Path")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Resumes");
+                });
+
             modelBuilder.Entity("Freelance.DataAccess.Entities.SessionEntity", b =>
                 {
                     b.Property<Guid>("Id")
@@ -65,15 +95,21 @@ namespace Freelance.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("Photo")
-                        .HasColumnType("text");
+                    b.Property<Guid?>("PhotoId")
+                        .HasColumnType("uuid");
 
-                    b.Property<string>("Resume")
-                        .HasColumnType("text");
+                    b.Property<Guid?>("ResumeId")
+                        .HasColumnType("uuid");
 
                     b.HasKey("Id");
 
                     b.HasIndex("Login")
+                        .IsUnique();
+
+                    b.HasIndex("PhotoId")
+                        .IsUnique();
+
+                    b.HasIndex("ResumeId")
                         .IsUnique();
 
                     b.ToTable("Users");
@@ -86,6 +122,21 @@ namespace Freelance.DataAccess.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Freelance.DataAccess.Entities.UserEntity", b =>
+                {
+                    b.HasOne("Freelance.DataAccess.Entities.PhotoFileEntity", "Photo")
+                        .WithOne()
+                        .HasForeignKey("Freelance.DataAccess.Entities.UserEntity", "PhotoId");
+
+                    b.HasOne("Freelance.DataAccess.Entities.ResumeFileEntity", "Resume")
+                        .WithOne()
+                        .HasForeignKey("Freelance.DataAccess.Entities.UserEntity", "ResumeId");
+
+                    b.Navigation("Photo");
+
+                    b.Navigation("Resume");
                 });
 
             modelBuilder.Entity("Freelance.DataAccess.Entities.UserEntity", b =>

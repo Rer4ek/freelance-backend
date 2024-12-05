@@ -16,15 +16,15 @@ namespace Freelance.DataAccess.Repositories
 
         public async Task<List<User>> Get()
         {
-            List<UserEntity> userEntities = await _context.Users
+            /*ist<UserEntity> userEntities = await _context.Users
                 .AsNoTracking()
                 .ToListAsync();
 
             List<User> users = userEntities
                 .Select(u => User.Create(u.Id, u.Name, u.Description, u.Resume, u.Photo, u.Password, u.Login).Value)
-                .ToList();
+                .ToList();*/
 
-            return users;
+            return null;
         }
 
     }

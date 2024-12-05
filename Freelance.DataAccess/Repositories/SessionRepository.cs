@@ -1,6 +1,7 @@
 ﻿using CSharpFunctionalExtensions;
 using Freelance.Core.Abstraction;
 using Freelance.Core.Models;
+using Freelance.Core.Utils;
 using Freelance.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
 
@@ -30,6 +31,7 @@ namespace Freelance.DataAccess.Repositories
             return sessionEntity.Id;
         }
 
+
         public async Task<Result<Guid>> GetId(User user)
         {
             List<SessionEntity> sessions = await _context.Sessions
@@ -58,7 +60,7 @@ namespace Freelance.DataAccess.Repositories
             return Result.Success(Session.Create(sessionEntity.Id, sessionEntity.UserId));
         }
 
-        public async Task<Result> Delete(User user)
+        public async Task<Result> Delete(string sessionHash)
         {
             List<SessionEntity> sessions = await _context.Sessions
                 .AsNoTracking()
@@ -66,7 +68,9 @@ namespace Freelance.DataAccess.Repositories
 
             try
             {
-                SessionEntity? sessionEntity = sessions.FirstOrDefault(s => s?.UserId == user.Id, null);
+                SessionEntity? sessionEntity = sessions
+                    .FirstOrDefault(
+                        s => Encryption.Compare(sessionHash, s?.Id.ToString()), null);
 
                 if (sessionEntity == null)
                 {
@@ -84,28 +88,16 @@ namespace Freelance.DataAccess.Repositories
             return Result.Success();
         }
 
-        public async Task<bool> IsValid(Session session)
+        public async Task<bool> IsValid(string sessionHash)
         {
             List<SessionEntity> sessions = await _context.Sessions
                 .AsNoTracking()
                 .ToListAsync();
 
-            SessionEntity? sessionEntity = sessions.FirstOrDefault(s => s?.Id == session.Id, null);
-            if (sessionEntity == null)
-            {
-                return false;
-            }
+            SessionEntity? sessionEntity = sessions
+                .FirstOrDefault(
+                s => Encryption.Compare(sessionHash, s?.Id.ToString()), null);
 
-            return true;
-        }
-
-        public async Task<bool> IsValid(Guid sessionId)
-        {
-            List<SessionEntity> sessions = await _context.Sessions
-                .AsNoTracking()
-                .ToListAsync();
-
-            SessionEntity? sessionEntity = sessions.FirstOrDefault(s => s?.Id == sessionId, null);
             if (sessionEntity == null)
             {
                 return false;

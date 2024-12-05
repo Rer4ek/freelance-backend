@@ -3,116 +3,44 @@
   "WorkspaceRootPath": "D:\\VisualProjects\\FreelanceBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE5D1CF2-7D0F-4098-90DE-FCE1792169C6}|Freelance.Application\\Freelance.Application.csproj|d:\\visualprojects\\freelancebackend\\freelance.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5D1CF2-7D0F-4098-90DE-FCE1792169C6}|Freelance.Application\\Freelance.Application.csproj|solutionrelative:freelance.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE5D1CF2-7D0F-4098-90DE-FCE1792169C6}|Freelance.Application\\Freelance.Application.csproj|d:\\visualprojects\\freelancebackend\\freelance.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5D1CF2-7D0F-4098-90DE-FCE1792169C6}|Freelance.Application\\Freelance.Application.csproj|solutionrelative:freelance.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|d:\\visualprojects\\freelancebackend\\freelance.dataaccess\\migrations\\20241128121411_sessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\migrations\\20241128121411_sessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.dataaccess\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|d:\\visualprojects\\freelancebackend\\freelance.dataaccess\\configurations\\sessionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\configurations\\sessionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|d:\\visualprojects\\freelancebackend\\freelance.dataaccess\\entities\\sessionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\entities\\sessionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|d:\\visualprojects\\freelancebackend\\freelance.dataaccess\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|d:\\visualprojects\\freelancebackend\\freelance.core\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|d:\\visualprojects\\freelancebackend\\freelance.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|d:\\visualprojects\\freelancebackend\\freelance.core\\abstraction\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\abstraction\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|d:\\visualprojects\\freelancebackend\\freelance.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.dataaccess\\freelancedatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\freelancedatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.api\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE5D1CF2-7D0F-4098-90DE-FCE1792169C6}|Freelance.Application\\Freelance.Application.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D1CF2-7D0F-4098-90DE-FCE1792169C6}|Freelance.Application\\Freelance.Application.csproj|solutionrelative:freelance.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.api\\contracts\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\contracts\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\utils\\clientfiletool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\utils\\clientfiletool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\abstraction\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\abstraction\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\utils\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\utils\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\\u0441onstants\\fileconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\\u0441onstants\\fileconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.api\\contracts\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\contracts\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.dataaccess\\freelance.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EC6F6B8E-33A9-4067-9980-A44DA56DC27E}|Freelance.DataAccess\\Freelance.DataAccess.csproj|solutionrelative:freelance.dataaccess\\freelance.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|d:\\visualprojects\\freelancebackend\\freelance.api\\contracts\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\contracts\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.api\\freelance.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9638093E-E710-45CC-B689-B8C42B17176B}|Freelance.API\\Freelance.API.csproj|solutionrelative:freelance.api\\freelance.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|D:\\VisualProjects\\FreelanceBackend\\freelance.core\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9ED00A-1785-4025-9A09-4BB98654887D}|Freelance.Core\\Freelance.Core.csproj|solutionrelative:freelance.core\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -127,358 +55,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Application\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "Freelance.Application\\Services\\AuthenticationService.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Application\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "Freelance.Application\\Services\\AuthenticationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:25:01.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241128121411_sessions.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Migrations\\20241128121411_sessions.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Migrations\\20241128121411_sessions.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Migrations\\20241128121411_sessions.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\Migrations\\20241128121411_sessions.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:17:27.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:19:12.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SessionEntity.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Entities\\SessionEntity.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Entities\\SessionEntity.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Entities\\SessionEntity.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\Entities\\SessionEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:54:44.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Models\\User.cs",
               "RelativeDocumentMoniker": "Freelance.Core\\Models\\User.cs",
               "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Models\\User.cs",
               "RelativeToolTip": "Freelance.Core\\Models\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:20:14.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Entities\\UserEntity.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\Entities\\UserEntity.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA1wBAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:26:15.168Z",
+              "WhenOpened": "2024-12-05T16:22:57.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Freelance.Application\\Services\\UserService.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "Freelance.Application\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Freelance.DataAccess\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Freelance.DataAccess\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:24:49.073Z",
+              "WhenOpened": "2024-12-05T16:22:41.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "SessionRepository.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Repositories\\SessionRepository.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Repositories\\SessionRepository.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Repositories\\SessionRepository.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\Repositories\\SessionRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAA3wC4AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:26:18.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SessionConfiguration.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Configurations\\SessionConfiguration.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Configurations\\SessionConfiguration.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Configurations\\SessionConfiguration.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\Configurations\\SessionConfiguration.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:12:48.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:39:03.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Program.cs",
-              "RelativeDocumentMoniker": "Freelance.API\\Program.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Program.cs",
-              "RelativeToolTip": "Freelance.API\\Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAwCYAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:45:16.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Session.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Models\\Session.cs",
-              "RelativeDocumentMoniker": "Freelance.Core\\Models\\Session.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Models\\Session.cs",
-              "RelativeToolTip": "Freelance.Core\\Models\\Session.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA9wAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:01:43.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Resume.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Models\\Resume.cs",
-              "RelativeDocumentMoniker": "Freelance.Core\\Models\\Resume.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Models\\Resume.cs",
-              "RelativeToolTip": "Freelance.Core\\Models\\Resume.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:23:29.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ISessionRepository.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\ISessionRepository.cs",
-              "RelativeDocumentMoniker": "Freelance.Core\\Abstraction\\ISessionRepository.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\ISessionRepository.cs",
-              "RelativeToolTip": "Freelance.Core\\Abstraction\\ISessionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:58:57.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Freelance.Core\\Abstraction\\IUserRepository.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\IUserRepository.cs",
-              "RelativeToolTip": "Freelance.Core\\Abstraction\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:21:17.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UsersRepository.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Repositories\\UsersRepository.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Repositories\\UsersRepository.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Repositories\\UsersRepository.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\Repositories\\UsersRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:19:36.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Freelance.API\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Freelance.API\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:31:44.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RegistrationController.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Controllers\\RegistrationController.cs",
-              "RelativeDocumentMoniker": "Freelance.API\\Controllers\\RegistrationController.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Controllers\\RegistrationController.cs",
-              "RelativeToolTip": "Freelance.API\\Controllers\\RegistrationController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwCIAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:25:17.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "UserResponse.cs",
               "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Contracts\\UserResponse.cs",
               "RelativeDocumentMoniker": "Freelance.API\\Contracts\\UserResponse.cs",
               "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Contracts\\UserResponse.cs",
               "RelativeToolTip": "Freelance.API\\Contracts\\UserResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:25:34.441Z",
+              "WhenOpened": "2024-12-05T12:35:01.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FreelanceDatabaseContext.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\FreelanceDatabaseContext.cs",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\FreelanceDatabaseContext.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\FreelanceDatabaseContext.cs",
-              "RelativeToolTip": "Freelance.DataAccess\\FreelanceDatabaseContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA4AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:47:03.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Encryption.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Utils\\Encryption.cs",
-              "RelativeDocumentMoniker": "Freelance.Core\\Utils\\Encryption.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Utils\\Encryption.cs",
-              "RelativeToolTip": "Freelance.Core\\Utils\\Encryption.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:34:57.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\IUserService.cs",
-              "RelativeDocumentMoniker": "Freelance.Core\\Abstraction\\IUserService.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\IUserService.cs",
-              "RelativeToolTip": "Freelance.Core\\Abstraction\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:34:25.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IUsersRepository.cs",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\IUsersRepository.cs",
-              "RelativeDocumentMoniker": "Freelance.Core\\Abstraction\\IUsersRepository.cs",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\IUsersRepository.cs",
-              "RelativeToolTip": "Freelance.Core\\Abstraction\\IUsersRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:19:34.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 7,
               "Title": "UserRequest.cs",
               "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Contracts\\UserRequest.cs",
               "RelativeDocumentMoniker": "Freelance.API\\Contracts\\UserRequest.cs",
               "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Contracts\\UserRequest.cs",
               "RelativeToolTip": "Freelance.API\\Contracts\\UserRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:25:28.564Z"
+              "WhenOpened": "2024-12-05T12:34:59.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Freelance.DataAccess.csproj",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Freelance.DataAccess.csproj",
-              "RelativeDocumentMoniker": "Freelance.DataAccess\\Freelance.DataAccess.csproj",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Freelance.DataAccess.csproj",
-              "RelativeToolTip": "Freelance.DataAccess\\Freelance.DataAccess.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T13:00:32.318Z"
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\IUserService.cs",
+              "RelativeDocumentMoniker": "Freelance.Core\\Abstraction\\IUserService.cs",
+              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Abstraction\\IUserService.cs",
+              "RelativeToolTip": "Freelance.Core\\Abstraction\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:23:12.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\docker-compose.yml",
-              "RelativeDocumentMoniker": "Freelance.API\\docker-compose.yml",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\docker-compose.yml",
-              "RelativeToolTip": "Freelance.API\\docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-26T13:08:21.722Z"
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Freelance.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Freelance.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwDQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:20:24.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Freelance.API\\appsettings.Development.json",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\appsettings.Development.json",
-              "RelativeToolTip": "Freelance.API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T13:08:01.461Z"
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Freelance.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Freelance.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAUwFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:37:29.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Freelance.API.csproj",
-              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Freelance.API.csproj",
-              "RelativeDocumentMoniker": "Freelance.API\\Freelance.API.csproj",
-              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Freelance.API.csproj",
-              "RelativeToolTip": "Freelance.API\\Freelance.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T13:02:02.79Z"
+              "DocumentIndex": 5,
+              "Title": "ClientFileTool.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Utils\\ClientFileTool.cs",
+              "RelativeDocumentMoniker": "Freelance.Core\\Utils\\ClientFileTool.cs",
+              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\Utils\\ClientFileTool.cs",
+              "RelativeToolTip": "Freelance.Core\\Utils\\ClientFileTool.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:28:50.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Freelance.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Freelance.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:23:47.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileConstants.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\\u0421onstants\\FileConstants.cs",
+              "RelativeDocumentMoniker": "Freelance.Core\\\u0421onstants\\FileConstants.cs",
+              "ToolTip": "D:\\VisualProjects\\FreelanceBackend\\Freelance.Core\\\u0421onstants\\FileConstants.cs",
+              "RelativeToolTip": "Freelance.Core\\\u0421onstants\\FileConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:23:45.957Z",
+              "EditorCaption": ""
             }
           ]
         }

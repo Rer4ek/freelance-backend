@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Freelance.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+281748da96e0cdd0b5c7a6a9e6d9a5a96e99ccf3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8332187c745640ae732050665cf471959d77e79a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Freelance.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Freelance.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

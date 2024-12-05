@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Freelance.Core.Utils
 {
-    public class Encryption
+    public static class Encryption
     {
 
         private static byte[] GetHash(string value)
@@ -16,13 +16,19 @@ namespace Freelance.Core.Utils
 
         public static string Encrypt(string value) => Convert.ToHexString(GetHash(value));
 
-        public static bool Compare(string hash, string value)
+        public static bool Compare(string? hash, string? value)
         {
+            if (hash == null || value == null)
+            {
+                return false;
+            }
+
             byte[] hashBytes = Convert.FromHexString(hash);
             byte[] valueHashBytes = GetHash(value);
 
             return hashBytes.SequenceEqual(valueHashBytes);
         }
+
 
     }
 }

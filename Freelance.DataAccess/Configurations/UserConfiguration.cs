@@ -35,6 +35,16 @@ namespace Freelance.DataAccess.Configurations
             builder
                 .HasMany(s => s.Sessions)
                 .WithOne();
+
+            builder
+                .HasOne(u => u.Photo)
+                .WithOne()
+                .HasForeignKey<UserEntity>(u => u.PhotoId);
+
+            builder
+                .HasOne(u => u.Resume)
+                .WithOne()
+                .HasForeignKey<UserEntity>(u => u.ResumeId);
         }
     }
 }

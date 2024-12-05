@@ -33,10 +33,14 @@ namespace Freelance.API
                     options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(FreelanceDatabaseContext)));
                 });
 
+            builder.Services.AddScoped<IAuthorizationService, AuthorizationService>();
+            builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<IUsersRepository, UsersRepository>();
             builder.Services.AddScoped<IUserRepository, UserRepository>();
             builder.Services.AddScoped<ISessionRepository, SessionRepository>();
+            builder.Services.AddScoped<IPhotoRepository, PhotoRepository>();
+            builder.Services.AddScoped<IResumeRepository, ResumeRepository>();
 
             var app = builder.Build();
 

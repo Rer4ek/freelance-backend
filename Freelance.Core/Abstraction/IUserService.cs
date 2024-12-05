@@ -6,6 +6,8 @@ namespace Freelance.Core.Abstraction
     public interface IUserService
     {
         Task<Result<Guid>> CreateUser(User user);
-        Task<Guid> UpdateUser(Guid guid, string? name, string? description, string? resume, string? photo, string password, string login);
+        Task<Result<Guid>> UpdateUser(User user);
+        Task<Result<User>> GetUserBySession(string sessionHash);
+        Task<Result<User>> GetUserByLogin(string login);
     }
 }

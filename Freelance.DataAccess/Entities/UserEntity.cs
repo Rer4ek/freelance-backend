@@ -10,9 +10,11 @@
 
         public string? Description { get; set; } = string.Empty;
 
-        public string? Photo {  get; set; } = string.Empty;
+        public Guid? PhotoId { get; set; }
+        public PhotoFileEntity? Photo { get; set; }
 
-        public string? Resume { get; set; } = string.Empty;
+        public Guid? ResumeId { get; set; }
+        public ResumeFileEntity? Resume { get; set; }
 
         public string Password { get; set; } = string.Empty;
 
